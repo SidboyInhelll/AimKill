@@ -2,7 +2,7 @@
     "admin": [
         {
             "username": "1",
-            "password": "1",
+            "password": "$2a$12$irxmtLXmiIHKEXEh6PlhaePC0wnl60EUoc5ZB1tNhxiLXUnR0wngm",
             "subscription": "aimkillapk",
             "expiry": "2025-09-15",
             "device_id": ""
